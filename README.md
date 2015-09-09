@@ -4,7 +4,7 @@ several diffrent graphical mods for warband,the files are downloaded directly fr
 handels installing them to the users local warband directory,it also includes the SweetFX shaders,which options can be
 modified in bnem_wbgi.txt
 
-The BNEM Mod can be found at the following repository:  it adds additional armors to multiplayer which create no conflicts with 
+The BNEM Mod can be found at the following repository: https://github.com/DelGruth/Native-Armor-Expansion-Bladenet-Mod  it adds additional armors to multiplayer which create no conflicts with 
 players who don't have the mod installed,it can also easily be integrated to already existing mods.
 
 
