@@ -1,0 +1,20 @@
+﻿<Window x:Class="Mount_and_Blade_Installer.Windows.Mod_Windows.ModSelect_01"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ModSelect_01" Height="500" Width="500" Background="{DynamicResource {x:Static SystemColors.ControlDarkDarkBrushKey}}" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush/>
+        </Grid.Background>
+        <Button HorizontalAlignment="Left" Height="30" Margin="36,14,0,0" VerticalAlignment="Top" Width="141" Content="Warband SweetFX Mod" Click="Button_Click_1"/>
+        <Button Content="Back" HorizontalAlignment="Left" Height="41" Margin="36,374,0,0" VerticalAlignment="Top" Width="141" Click="Button_Click"/>
+        <Button Content="Polished Landscapes" HorizontalAlignment="Left" Margin="36,49,0,0" VerticalAlignment="Top" Width="141" RenderTransformOrigin="0.541,0.436" Height="30" Click="Button_Click_2"/>
+        <Button Content="Expanded Horizons" HorizontalAlignment="Left" Margin="36,84,0,0" VerticalAlignment="Top" Width="141" Height="30" Click="Button_Click_3"/>
+        <Button Content="Sarranid new Textures" HorizontalAlignment="Left" Margin="36,119,0,0" VerticalAlignment="Top" Width="141" Height="30" Click="Button_Click_4"/>
+        <Button Content="Better Skyboxes" HorizontalAlignment="Left" Margin="36,154,0,0" VerticalAlignment="Top" Width="141" Height="30" Click="Button_Click_5"/>
+        <Button Content="Realistic Colors" HorizontalAlignment="Left" Margin="36,189,0,0" VerticalAlignment="Top" Width="141" Height="30" Click="Button_Click_6"/>
+        <Button Content="Alternate Warband" HorizontalAlignment="Left" Margin="36,224,0,0" VerticalAlignment="Top" Width="141" Height="30" Click="Button_Click_7"/>
+        <Button Content="Improved Buildings" HorizontalAlignment="Left" Margin="36,259,0,0" VerticalAlignment="Top" Width="141" Height="30" Click="Button_Click_8"/>
+
+    </Grid>
+</Window>

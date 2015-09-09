@@ -1,0 +1,10 @@
+﻿<Window x:Class="Mount_and_Blade_Installer.Windows.ModWIndowsInstallUninstall.Sarranid_Sultanate_Alternate_texture"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Height="300" Width="602.174" Background="{DynamicResource {x:Static SystemColors.ControlDarkDarkBrushKey}}" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Button Content="Install" HorizontalAlignment="Left" Margin="33,42,0,0" VerticalAlignment="Top" Width="133" Height="36" Click="Button_Click"/>
+        <Button Content="Uninstall" HorizontalAlignment="Left" Margin="440,42,0,0" VerticalAlignment="Top" Width="133" Height="36" Click="Button_Click_1"/>
+        <Button Content="Back" HorizontalAlignment="Left" Margin="248,193,0,0" VerticalAlignment="Top" Width="133" Height="36" Click="Button_Click_2"/>
+
+    </Grid>
+</Window>

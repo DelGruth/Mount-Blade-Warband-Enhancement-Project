@@ -1,0 +1,11 @@
+﻿<Window x:Class="Mount_and_Blade_Installer.Windows.ModWIndowsInstallUninstall.Improved_Buildings"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Improved_Buildings" Height="300" Width="600" WindowStartupLocation="CenterScreen" Background="{DynamicResource {x:Static SystemColors.ControlDarkDarkBrushKey}}">
+    <Grid>
+        <Button Content="Install" HorizontalAlignment="Left" Margin="51,23,0,0" VerticalAlignment="Top" Width="125" Height="39" Click="Button_Click"/>
+        <Button Content="Uninstall" HorizontalAlignment="Left" Margin="444,23,0,0" VerticalAlignment="Top" Width="125" Height="39" Click="Button_Click_2"/>
+        <Button Content="Back" HorizontalAlignment="Left" Margin="253,223,0,0" VerticalAlignment="Top" Width="125" Height="39" Click="Button_Click_1"/>
+
+    </Grid>
+</Window>
